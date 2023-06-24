@@ -2,5 +2,8 @@
 *.png
 *.jpg
 
+# Videos
+*.avi
+
 # Exes
 *.out
