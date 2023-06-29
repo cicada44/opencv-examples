@@ -14,6 +14,4 @@ image2 = cv2.imread('DestCopy.jpg')
 
 image2[400:600, 400:600] = image1[0:200, 0:200]
 
-# imageFinal = 
-
 cv2.imwrite("withPart.png", image2)
