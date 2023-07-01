@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------------
 #
-# Copies part of photo to another photo with OpenCV in Python3
+# Example for copying part of photo to another
 #
 #-----------------------------------------------------------------------------
 

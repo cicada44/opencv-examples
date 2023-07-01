@@ -13,7 +13,6 @@ if imageRGB is None:
     exit(-1)
 
 lowerBlue = np.array([15, 15, 0])
-print(lowerBlue)
 upperBlue = np.array([130, 170, 255])
 
 mask = cv2.inRange(imageRGB, lowerBlue, upperBlue)

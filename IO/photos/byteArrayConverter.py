@@ -1,11 +1,10 @@
 #-----------------------------------------------------------------------------
 #
-# Creates 10x10 pixels gray image with OpenCV in Python3
+# Example for creating 10x10 pixels gray image
 #
 #-----------------------------------------------------------------------------
 
 import cv2
-import os
 import numpy
 
 # Create size 100 bytearray

@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------------
 #
-# Converts image to png with OpenCV in Python3
+# Example for converting image from .jpg format to .png
 #
 #-----------------------------------------------------------------------------
 

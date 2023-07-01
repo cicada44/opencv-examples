@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------------
 #
-# Convert image to black-white format with OpenCV in Python3
+# Example of converting image to black-white format
 #
 #-----------------------------------------------------------------------------
 

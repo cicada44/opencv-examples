@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------------
 #
-# Creates gradient 1x22 pixels line with OpenCV in Python3
+# Example for creating gradient 22x1 pixels white-black image
 #
 #-----------------------------------------------------------------------------
 

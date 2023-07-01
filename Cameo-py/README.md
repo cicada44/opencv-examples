@@ -9,10 +9,6 @@ Cameo is a Python3 project that captures video frames from a webcam using OpenCV
 - managers.py
 - README.md
 
-## Dependencies
-
-- OpenCV (cv2)
-
 ## Usage
 
 To run the Cameo application, execute the following command:
@@ -33,7 +29,3 @@ The project consists of the following files:
 - `cameo.py`: Contains the main class `Cameo` that handles webcam capturing, frame processing, and user input handling.
 - `main.py`: The entry point of the application. It creates an instance of the `Cameo` class and runs the main loop.
 - `managers.py`: Defines the `CaptureManager` and `WindowManager` classes used by the `Cameo` class for managing video capturing and window management.
-
-## License
-
-This project is licensed under the Unlicense License.

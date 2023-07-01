@@ -7,3 +7,6 @@
 
 # Exes
 *.out
+
+# IDEs
+.vscode
