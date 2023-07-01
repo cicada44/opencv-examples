@@ -14,6 +14,10 @@ This repo contains examples for OpenCV library on Python3 and C++.
 
 - OpenCV (cv2)
 
+Feel free to explore each example file to grasp the concepts better. You can modify and experiment with the code to see how different changes affect the program's behavior.
+
 ## License
 
-This repo is licensed under the Unlicense License.
+This repository is licensed under the UNLICENSE. Feel free to use the code examples for anything purposes, modify them, and distribute them as needed.
+
+Happy coding and enjoy learning OpenCV!
