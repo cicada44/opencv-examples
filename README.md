@@ -10,7 +10,7 @@ This repo contains examples for OpenCV library on Python3 and C++.
 
 ## Dependencies
 
-- OpenCV (cv2)
+- OpenCV (cv2 or cv4/cv2)
 
 Feel free to explore each example file to grasp the concepts better. You can modify and experiment with the code to see how different changes affect the program's behavior.
 
