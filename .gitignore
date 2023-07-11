@@ -10,3 +10,6 @@
 
 # IDEs
 .vscode
+
+# Other
+.clang-format
