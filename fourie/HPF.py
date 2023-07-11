@@ -18,7 +18,7 @@ kernel_5x5 = np.array([[-1, -1, -1, -1, -1],
                        [-1, 1, 2, 1, -1],
                        [-1, -1, -1, -1, -1]])
 
-img = cv2.imread('../img.jpg', 0)
+img = cv2.imread('../../img.jpg', 0)
 
 k3 = ndimage.convolve(img, kernel_3x3)
 k5 = ndimage.convolve(img, kernel_5x5)

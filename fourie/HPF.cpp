@@ -7,7 +7,7 @@
 #include <opencv2/opencv.hpp>
 
 int main() {
-    cv::Mat img = cv::imread("../img.jpg", 0), k3, k5, blurred, g_hpf;
+    cv::Mat img = cv::imread("../../img.jpg", 0), k3, k5, blurred, g_hpf;
 
     cv::Mat kernel_3x3 = (cv::Mat_<int>(3, 3) << -1, -1, -1, -1, 8, -1, -1, -1, -1);
     cv::Mat kernel_5x5 = (cv::Mat_<int>(5, 5) << -1, -1, -1, -1, -1, -1, 1, 2, 1, -1, -1, 2, 4, 2, -1, -1, 1, 2, 1, -1,
