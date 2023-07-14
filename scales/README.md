@@ -1,4 +1,10 @@
 # Scales
 
-- [imageResize](./imageResize.py), [image_resize](./image_resize.cpp) - resizing image
-- [scales_info](./scales_info.cpp), [scalesInfo.py](./scalesInfo.py) - printing image scales info
+This directory contains examples for scales processing.
+
+- [image-resize](./image-resize/) - examples of image resizing
+  - [imageResize.cpp](./image-resize/imageResize.cpp)
+  - [imageResize.py](./image-resize/imageResize.py)
+- [scales-info](./scales-info/) - examples of scales information
+  - [scalesInfo.cpp](./scales-info/scalesInfo.cpp)
+  - [scalesInfo.py](./scales-info/scalesInfo.py)

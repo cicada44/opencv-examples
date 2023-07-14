@@ -4,9 +4,13 @@ This repo contains examples for OpenCV library on Python3 and C++.
 
 ## Topics
 
-- [color-spaces](./color-spaces/) - contains examples of processing `color spaces`
-- [IO](./IO/) - contains examples of `input-output` processing
-- [scales](./scales/) - contains examples for `scales` processing
+- [basics](./basics/) - contains fundamental examples.
+- [color-spaces](./color-spaces/) - contains examples of processing color spaces.
+- [handwritten](./handwritten/) - contains examples of handwritten OpenCV features.
+- [mask-operations](./mask-operations/) - contains examples of mask operations.
+- [Mat-special](./Mat-special/) - contains special examples related to the Mat object.
+- [scales](./scales/) - contains examples for scales processing.
+- [smoothing](./smoothing/) - contains examples of image smoothing.
 
 ## Dependencies
 

@@ -1,4 +1,10 @@
-# Color spaces
+# Color Spaces
 
-- [mask.py](./mask.py), [mask.cpp](./mask.cpp) - highlighting shades in image
-- [RGBtoHSV](./RGBtoHSV.py), [rgb_to_hsv](./rgb_to_hsv.cpp) - translates RGB image to HSV
+This directory contains examples of processing color spaces.
+
+- [mask](./mask/) - examples of mask operations
+  - [mask.cpp](./mask/mask.cpp)
+  - [mask.py](./mask/mask.py)
+- [RGBtoHSV](./RGBtoHSV/) - examples of RGB to HSV conversion
+  - [rgb_to_hsv.cpp](./RGBtoHSV/rgb_to_hsv.cpp)
+  - [RGBtoHSV.py](./RGBtoHSV/RGBtoHSV.py)
